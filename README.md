@@ -1,3 +1,3 @@
 # Test
 
-This is the test and learn for GIT LFS
+This is the test and learn for GIT LFS.
